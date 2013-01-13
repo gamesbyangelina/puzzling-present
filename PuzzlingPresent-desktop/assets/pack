@@ -1,0 +1,250 @@
+
+images1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+presentstrip
+  rotate: false
+  xy: 2, 2
+  size: 480, 32
+  orig: 480, 32
+  offset: 0, 0
+  index: -1
+autotiles
+  rotate: false
+  xy: 2, 36
+  size: 256, 16
+  orig: 256, 16
+  offset: 0, 0
+  index: -1
+nextbutton
+  rotate: false
+  xy: 2, 54
+  size: 186, 31
+  orig: 186, 31
+  offset: 0, 0
+  index: -1
+label2
+  rotate: false
+  xy: 2, 87
+  size: 160, 48
+  orig: 160, 48
+  offset: 0, 0
+  index: -1
+label1
+  rotate: false
+  xy: 2, 137
+  size: 160, 48
+  orig: 160, 48
+  offset: 0, 0
+  index: -1
+santa
+  rotate: false
+  xy: 2, 187
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+labelplain
+  rotate: false
+  xy: 2, 205
+  size: 123, 48
+  orig: 123, 48
+  offset: 0, 0
+  index: -1
+tiles-snowtop
+  rotate: false
+  xy: 190, 54
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+tileset
+  rotate: false
+  xy: 190, 54
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+tiles-dirt
+  rotate: false
+  xy: 164, 87
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+coals2
+  rotate: false
+  xy: 164, 105
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+coals
+  rotate: false
+  xy: 164, 137
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+baubel
+  rotate: false
+  xy: 164, 155
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+levelicon
+  rotate: false
+  xy: 260, 36
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+retrybutton
+  rotate: false
+  xy: 164, 219
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+menubutton
+  rotate: false
+  xy: 164, 237
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+backbutton
+  rotate: false
+  xy: 260, 86
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+togglestrip
+  rotate: false
+  xy: 214, 219
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+present-lock
+  rotate: false
+  xy: 127, 205
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+present-2
+  rotate: false
+  xy: 226, 155
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+present-1
+  rotate: false
+  xy: 260, 104
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pres2
+  rotate: false
+  xy: 260, 138
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pres1open
+  rotate: false
+  xy: 260, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+pres1
+  rotate: false
+  xy: 260, 206
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+btn-plus
+  rotate: false
+  xy: 310, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+btn-minus
+  rotate: false
+  xy: 344, 36
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+tiles-default
+  rotate: false
+  xy: 226, 189
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+candycane
+  rotate: false
+  xy: 310, 70
+  size: 16, 128
+  orig: 16, 128
+  offset: 0, 0
+  index: -1
+santa-lone
+  rotate: false
+  xy: 484, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+holly1
+  rotate: false
+  xy: 230, 87
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 230, 105
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+tick
+  rotate: false
+  xy: 502, 2
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+question
+  rotate: false
+  xy: 502, 10
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+strip
+  rotate: false
+  xy: 484, 20
+  size: 4, 2
+  orig: 4, 2
+  offset: 0, 0
+  index: -1
+snow
+  rotate: false
+  xy: 484, 24
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

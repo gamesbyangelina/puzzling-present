@@ -1,0 +1,68 @@
+
+about-images1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+imascientist
+  rotate: false
+  xy: 2, 2
+  size: 252, 104
+  orig: 252, 104
+  offset: 0, 0
+  index: -1
+imascientist2
+  rotate: false
+  xy: 256, 2
+  size: 218, 90
+  orig: 218, 90
+  offset: 0, 0
+  index: -1
+imperiallogo
+  rotate: false
+  xy: 2, 108
+  size: 260, 69
+  orig: 260, 69
+  offset: 0, 0
+  index: -1
+mainscreen
+  rotate: false
+  xy: 2, 179
+  size: 259, 69
+  orig: 259, 69
+  offset: 0, 0
+  index: -1
+gameshots
+  rotate: false
+  xy: 2, 250
+  size: 259, 69
+  orig: 259, 69
+  offset: 0, 0
+  index: -1
+firstscreen
+  rotate: false
+  xy: 2, 321
+  size: 252, 64
+  orig: 252, 64
+  offset: 0, 0
+  index: -1
+rightarrow
+  rotate: false
+  xy: 476, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+leftarrow
+  rotate: false
+  xy: 493, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+backarrow
+  rotate: false
+  xy: 476, 34
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
